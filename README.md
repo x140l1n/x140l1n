@@ -13,7 +13,6 @@ I'm a 27-year-old fullstack developer based in Barcelona. My passion for technol
 
 - **Multiplatform App Development (DAM)**
 - **Web App Development (DAW)**  
-  at *Centre d'Estudis Politècnics*, where I received the Outstanding Student award.
 
 One of my favorite hobbies is dancing 🕺, which has helped me develop discipline, consistency, and a strong attention to detail — all of which I bring to my work as a developer.
 
