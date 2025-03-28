@@ -15,7 +15,7 @@ I'm a 27-year-old fullstack developer based in Barcelona. My passion for technol
 - **Web App Development (DAW)**  
   at *Centre d'Estudis Politècnics*, where I received the Outstanding Student award.
 
-One of my favorite hobbies is dancing, which has helped me develop discipline, consistency, and a strong attention to detail — all of which I bring to my work as a developer.
+One of my favorite hobbies is dancing 🕺, which has helped me develop discipline, consistency, and a strong attention to detail — all of which I bring to my work as a developer.
 
 I love working in teams, sharing knowledge, and creating solutions that bring real value.
 
