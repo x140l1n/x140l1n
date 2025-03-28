@@ -84,9 +84,8 @@ Frontend Developer @ [UXLand](https://www.uxland.es)
 - Worked with SAP, ABAP, Lit, React, Redux, Vite, Web Components, and more
 - Integration with CI/CD, cloud, and enterprise solutions
 
-**Technologies:**
-
 ![Lit](https://img.shields.io/badge/-Lit-324FFF?logo=webcomponents.org&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Microfrontends](https://img.shields.io/badge/-Microfrontends-000?style=flat&logo=webcomponents.org&logoColor=fff)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=fff)
 ![ABAP](https://img.shields.io/badge/-ABAP-009999?style=flat)
@@ -134,13 +133,12 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 - Helpdesk: Support for end users, software/hardware maintenance
 - ERP: Custom development and management using A3ERP
 
-**Technologies:**
-
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
