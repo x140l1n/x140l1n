@@ -50,6 +50,7 @@ I love working in teams, sharing knowledge, and creating solutions that bring re
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+![tsoa](https://img.shields.io/badge/-tsoa-blue?style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![.NET Core](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
