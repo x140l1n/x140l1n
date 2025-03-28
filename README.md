@@ -71,8 +71,8 @@ I love working in teams, sharing knowledge, and creating solutions that bring re
 
 Tech: **Vue.js**, **Bootstrap**, **Sass**
 
-- 🔗 <a href="https://xiaojl.dev/" target="_blank">Live Site</a>
-- 💻 <a href="https://github.com/x140l1n/xiao-dev-portfolio" target="_blank">GitHub Repo</a>
+- 🔗 [Live Site](https://xiaojl.dev/)
+- 💻 [GitHub Repo](https://github.com/x140l1n/xiao-dev-portfolio)
 
 ---
 
