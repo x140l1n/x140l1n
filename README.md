@@ -64,18 +64,6 @@ I love working in teams, sharing knowledge, and creating solutions that bring re
 
 ---
 
-### 💻 My Portfolio
-
-**📄 Portfolio OS Simulation**
-> A portfolio that mimics an operating system: draggable windows, responsive layout, and playful UX.
-
-Tech: **Vue.js**, **Bootstrap**, **Sass**
-
-- 🔗 [Live Site](https://xiaojl.dev/)
-- 💻 [GitHub Repo](https://github.com/x140l1n/xiao-dev-portfolio)
-
----
-
 ### 💼 Experience
 
 <dl><dd>
