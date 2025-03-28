@@ -23,7 +23,7 @@ One of my favorite hobbies is dancing 🕺, which has helped me develop discipli
 
 I love working in teams, sharing knowledge, and creating solutions that bring real value.
 
-### 🌍 Languages I Speak
+### 🌍 Languages
 - Spanish (Native)
 - Catalan (Native)
 - English (Intermediate)
