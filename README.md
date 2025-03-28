@@ -229,4 +229,4 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 
 ---
 
-<sub>Building with purpose. Growing every day. Open to collaboration 🚀</sub>
+<sub>🚀 Building with purpose. Growing every day. Open to collaboration 🚀</sub>
