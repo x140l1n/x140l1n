@@ -4,7 +4,11 @@
 
 <h1 align="center">Hey, I'm Xiaolin Jin Lin 👋</h1>
 <h3 align="center">Fullstack Developer • Frontend at UXLand • Fullstack Developer & DevOps & Helpdesk at TKM Consultores S.L.</h3>
-<h2 align="center">[![Portfolio](https://img.shields.io/badge/-xiaojl.dev-000000?logo=vercel&logoColor=white)](https://xiaojl.dev)</h2>
+<h2 align="center">
+  <a href="https://xiaojl.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-xiaojl.dev-000000?logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</h2>
 
 ---
 
