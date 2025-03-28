@@ -79,7 +79,7 @@ Tech: **Vue.js**, **Bootstrap**, **Sass**
 
 ### 💼 Experience
 
-#### <img src="https://uxland.es/images/logos_black/uxland_black.svg" width="100" style="vertical-align: middle; margin-right: 8px;" /> Frontend Developer @ [UXLand](https://www.uxland.es)
+#### <img src="uxland.png" width="100" style="vertical-align: middle; margin-right: 16px;" /> Frontend Developer @ [UXLand](https://www.uxland.es)
 **Nov 2024 – Present · Barcelona, Spain**
 - Development of frontend architecture and components
 - Contribution to design systems and microfrontends
@@ -120,7 +120,7 @@ Tech: **Vue.js**, **Bootstrap**, **Sass**
 
 ---
 
-#### <img src="https://www.tkmservicios.com/wp-content/uploads/2022/01/cropped-logoTKM.png" width="100" style="vertical-align: middle; margin-right: 8px;" /> Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios.com)
+#### <img src="tkm.png" width="100" style="vertical-align: middle; margin-right: 16px;" /> Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios.com)
 **Nov 2019 – Present · Barcelona, Spain**
 - Project planning, documentation, and development
 - Web apps: HTML, CSS, JavaScript, PHP, Ruby on Rails, WordPress
