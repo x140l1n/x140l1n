@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Xiaolin Jin Lin 👋</h1>
-<h3 align="center">Fullstack Developer • Frontend at UXLand • DevOps & Backend at TKM Consultores S.L.</h3>
+<h3 align="center">Fullstack Developer • Frontend at UXLand • Fullstack Developer & DevOps & Helpdesk at TKM Consultores S.L.</h3>
 
 ---
 
@@ -15,7 +15,7 @@ I'm a 27-year-old fullstack developer based in Barcelona. My passion for technol
 - **Web App Development (DAW)**  
   at *Centre d'Estudis Politècnics*, where I received the Outstanding Student award.
 
-One of my favorite hobbies is dancing 🕺, which has helped me develop discipline, consistency, and a strong attention to detail — all of which I bring to my work as a developer.
+One of my favorite hobbies is dancing, which has helped me develop discipline, consistency, and a strong attention to detail — all of which I bring to my work as a developer.
 
 I love working in teams, sharing knowledge, and creating solutions that bring real value.
 
@@ -79,7 +79,9 @@ Tech: **Vue.js**, **Bootstrap**, **Sass**
 
 ### 💼 Experience
 
-#### <img src="uxland.png" width="100" style="vertical-align: middle; margin-right: 16px;" /> Frontend Developer @ [UXLand](https://www.uxland.es)
+<dl><dd>
+
+#### <img src="https://uxland.es/images/logos_white/uxland_white.svg" width="22" style="vertical-align: middle; margin-right: 8px; " /> Frontend Developer @ [UXLand](https://www.uxland.es)
 **Nov 2024 – Present · Barcelona, Spain**
 - Development of frontend architecture and components
 - Contribution to design systems and microfrontends
@@ -118,9 +120,11 @@ Tech: **Vue.js**, **Bootstrap**, **Sass**
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=fff)
 
----
+</dd></dl>
 
-#### <img src="tkm.png" width="100" style="vertical-align: middle; margin-right: 16px;" /> Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios.com)
+<dl><dd>
+
+#### <img src="https://www.tkmservicios.com/wp-content/uploads/2022/01/cropped-logoTKM.png" width="22" style="vertical-align: middle; margin-right: 8px;" /> Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios.com)</dd></dl>
 **Nov 2019 – Present · Barcelona, Spain**
 - Project planning, documentation, and development
 - Web apps: HTML, CSS, JavaScript, PHP, Ruby on Rails, WordPress
