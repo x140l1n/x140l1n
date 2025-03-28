@@ -169,7 +169,21 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 - Database manipulation  
 - Ubuntu server configuration  
 - Project-based learning  
-**Technologies:** HTML, CSS, Bootstrap, Sass, JS, Vue, React, Ionic, PHP, Laravel, Eloquent, MySQL  
+**Technologies:**
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
+![Eloquent](https://img.shields.io/badge/-Eloquent-red?style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
 **Grade:** 9
 
 ---
@@ -180,7 +194,19 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 - Game and BASH programming  
 - Database manipulation  
 - Project-based learning  
-**Technologies:** Java, C#, C++, Android, WinForms .NET, ADO.NET, LIBGDX, SQL Server, MySQL  
+**Technologies:**
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=fff)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff)
+![WinForms](https://img.shields.io/badge/-WinForms-512BD4?logo=windows&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat)
+![LIBGDX](https://img.shields.io/badge/-LIBGDX-CC0000?style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
 **Grade:** 9
 
 ---
