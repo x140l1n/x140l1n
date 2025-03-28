@@ -184,7 +184,7 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 ![Eloquent](https://img.shields.io/badge/-Eloquent-red?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
-**Grade:** 9
+⭐ **Grade:** 9
 
 ---
 
@@ -207,7 +207,7 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
-**Grade:** 9
+⭐ **Grade:** 9
 
 ---
 
@@ -225,7 +225,8 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff)
 ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-555?style=flat)
-**Grade:** 10
+
+⭐ **Grade:** 10
 
 ---
 
