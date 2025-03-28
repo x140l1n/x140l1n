@@ -79,7 +79,7 @@ Tech: **Vue.js**, **Bootstrap**, **Sass**
 
 ### 💼 Experience
 
-#### <img src="https://uxland.es/images/logos_black/uxland_black.svg" width="100" style="vertical-align: middle; margin-right: 8px; filter: invert(1);" /> Frontend Developer @ [UXLand](https://www.uxland.es)
+#### <img src="https://uxland.es/images/logos_black/uxland_black.svg" width="100" style="vertical-align: middle; margin-right: 8px;" /> Frontend Developer @ [UXLand](https://www.uxland.es)
 **Nov 2024 – Present · Barcelona, Spain**
 - Development of frontend architecture and components
 - Contribution to design systems and microfrontends
