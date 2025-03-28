@@ -4,6 +4,7 @@
 
 <h1 align="center">Hey, I'm Xiaolin Jin Lin 👋</h1>
 <h3 align="center">Fullstack Developer • Frontend at UXLand • Fullstack Developer & DevOps & Helpdesk at TKM Consultores S.L.</h3>
+<h2 align="center">[![Portfolio](https://img.shields.io/badge/-xiaojl.dev-000000?logo=vercel&logoColor=white)](https://xiaojl.dev)</h2>
 
 ---
 
@@ -207,9 +208,8 @@ Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios
 
 ---
 
-### 🌐 Portfolio & Contact
+### ✉ Contact
 
-[![Portfolio](https://img.shields.io/badge/-xiaojl.dev-000000?logo=vercel&logoColor=white)](https://xiaojl.dev)
 [![LinkedIn](https://img.shields.io/badge/-Xiaolin%20Jin%20Lin-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/xiaolin-jin-lin-017287173/)
 [![GitHub](https://img.shields.io/badge/-x140l1n-181717?logo=github&logoColor=fff)](https://github.com/x140l1n)
 [![Instagram](https://img.shields.io/badge/-@_xiao_97_-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/_xiao_97_/)
