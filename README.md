@@ -72,8 +72,6 @@ I love working in teams, sharing knowledge, and creating solutions that bring re
 
 ### 💼 Experience
 
-<dl><dd>
-
 #### <img src="uxland.png" width="100" /> 
 
 Frontend Developer @ [UXLand](https://www.uxland.es)
@@ -114,10 +112,6 @@ Frontend Developer @ [UXLand](https://www.uxland.es)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=fff)
-
-</dd></dl>
-
-<dl><dd>
 
 #### <img src="tkm.png" width="100"/> 
 Fullstack Developer / Helpdesk @ [TKM Consultores S.L.](https://www.tkmservicios.com)
