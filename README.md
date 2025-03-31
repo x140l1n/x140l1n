@@ -14,7 +14,7 @@
 
 ### 👤 About Me
 
-I'm a 27-year-old fullstack developer based in Barcelona. My passion for technology started early, and at 19 I committed fully to programming. I studied:
+I'm a fullstack developer based in Barcelona. My passion for technology started early, and at 19 I committed fully to programming. I studied:
 
 - **Multiplatform App Development (DAM)**
 - **Web App Development (DAW)**  
